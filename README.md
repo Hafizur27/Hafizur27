@@ -1,6 +1,6 @@
+![Front-End Web Developer](https://media.licdn.com/dms/image/D4D16AQE4WGRRbCduZQ/profile-displaybackgroundimage-shrink_350_1400/0/1688671468866?e=1694044800&v=beta&t=ZwCpeHWxRV-0WuR0XfRiaN7VUq84NSsChrKETXBck70)
 ### Hi there 👋, Hafizur Rahman Hasiv
 #### Front-End Web Developer
-![Front-End Web Developer](https://media.licdn.com/dms/image/D4D16AQE4WGRRbCduZQ/profile-displaybackgroundimage-shrink_350_1400/0/1688671468866?e=1694044800&v=beta&t=ZwCpeHWxRV-0WuR0XfRiaN7VUq84NSsChrKETXBck70)
 
 I am a Front End Web Developer Who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I am strategic, goal-oriented, and always work with an end goal in mind. Over the last 6 months, I worked on 15+ projects. I pride myself on doing quality work and maintaining excellent communication.
 
